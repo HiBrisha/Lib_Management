@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/components/form/index.tsx","./src/config/constants.ts","./src/config/env.ts","./src/controller/redirect/index.tsx","./src/controller/routes/index.tsx","./src/layout/login/index.tsx","./src/pages/login/index.tsx"],"version":"5.6.2"}
